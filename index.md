@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Emanuel Cabral de Carvalho
 
 ## Software Developer
